@@ -10,3 +10,8 @@ https://anaconda.org/bioconda/seqkit
 
 My Conda webpage for the windows packaged conda package:
 https://anaconda.org/derkevinriehl/seqkit
+
+Install for Windows32 and Windows64 users using:
+```
+conda install -c derkevinriehl seqkit
+```
